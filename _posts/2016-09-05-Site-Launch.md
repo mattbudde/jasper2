@@ -1,15 +1,14 @@
 ---
-published: true
 layout: post
-excerpt: A quick introduction to myself and the site.
-modified: {}
-tags:
-  - Intro
-comments: true
-pinned: true
-image:
-  feature: 'http://i.imgur.com/Ywk8jsE.png'
-category: Personal
+current: post
+cover:  assets/images/welcome.jpg
+navigation: True
+title: Welcome to Ghost
+date: 2017-07-27 10:00:00
+tags: [Getting started]
+class: post-template
+subclass: 'post tag-getting-started'
+author: matt
 ---
 ## Welcome
 

@@ -1,15 +1,14 @@
 ---
-published: true
 layout: post
-excerpt: Blog Update & My First App
-modified: {}
-tags:
-  - Update
-comments: true
-pinned: true
-image:
-  feature: 'https://image.ibb.co/iqvqsR/Capture1.png'
-category: Personal
+current: post
+cover:  assets/images/welcome.jpg
+navigation: True
+title: Welcome to Ghost
+date: 2017-07-27 10:00:00
+tags: [Getting started]
+class: post-template
+subclass: 'post tag-getting-started'
+author: matt
 ---
 ## Blog Update and My First App Release
 

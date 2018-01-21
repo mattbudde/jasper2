@@ -5,9 +5,9 @@ cover:  assets/images/design.jpg
 navigation: True
 title: Blog Update
 date: 2018-01-08 10:00:00
-tags: [Getting started]
+tags: [Update]
 class: post-template
-subclass: 'post tag-getting-started'
+subclass: 'post tag-update'
 author: matt
 ---
 ## Blog Update and My First App Release

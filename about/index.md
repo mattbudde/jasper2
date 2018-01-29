@@ -8,6 +8,6 @@ class: page-template
 subclass: 'post page'
 ---
 
-###Hi there, I'm Matt.
+### Hi there, I'm Matt.
 
 I am a self-taught Web Developer in Belfast, Northern Ireland.

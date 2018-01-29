@@ -24,7 +24,7 @@ twitter: thisismbd # replace by your username
 facebook:  # replace by your username
 
 # Disqus
-disqus: False
+disqus: True
 disqus_shortname: mattbudde # replace with your disqus username
 
 # Google Analytics
